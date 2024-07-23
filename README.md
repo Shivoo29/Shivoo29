@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Shivoo29/Shivoo29/blob/main/030a1e13b0fdb302b77262cf387783f1.jpg)
+[![MasterHead](https://github.com/Shivoo29/Shivoo29/blob/main/030a1e13b0fdb302b77262cf387783f1.jpg)]
 <h1 align="center">Hi 👋, I'm Shivam Kumar Jha</h1>
 <h3 align="center">A passionate Software developer with a particular interest in Physics</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
