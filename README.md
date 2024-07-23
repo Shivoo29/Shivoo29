@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Many projects in future!!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shivam-kumar-jha-35686a238/**
+- 📫 How to reach me [LINKEDIN_PROFILE](https://www.linkedin.com/in/shivam-kumar-jha-35686a238/)
 
 - 📄 Know about my experiences [RESUME](https://github.com/Shivoo29/Shivoo29/blob/Shivoo29-patch-Resume/SKJ_resume.pdf)
 
