@@ -3,12 +3,6 @@
 <h3 align="center">A passionate Software developer with a particular interest in Physics</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivoo29&label=Profile%20views&color=0e75b6&style=flat" alt="shivoo29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivoo29" alt="shivoo29" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/skj_thinker" target="blank"><img src="https://img.shields.io/twitter/follow/skj_thinker?logo=twitter&style=for-the-badge" alt="skj_thinker" /></a> </p>
-
 - 🔭 I’m currently working on [RBI_Hackathon_2024](https://github.com/Shivoo29/RBI_Hackathon_2024/tree/main)
 
 - 🌱 I’m currently learning **Rust, JS, Java, C++, Go, etc.. and pretty much everything because learning doesn't stop Right?**
@@ -20,6 +14,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sXV2Grq2yBqyfXDi3U_4TDviBdrXTQ4R/view?usp=sharing](https://drive.google.com/file/d/1sXV2Grq2yBqyfXDi3U_4TDviBdrXTQ4R/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I am Funny**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivoo29&label=Profile%20views&color=0e75b6&style=flat" alt="shivoo29" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivoo29" alt="shivoo29" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/skj_thinker" target="blank"><img src="https://img.shields.io/twitter/follow/skj_thinker?logo=twitter&style=for-the-badge" alt="skj_thinker" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
