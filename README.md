@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer with a particular interest in Physics</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
-- 🔭 I’m currently working on [RBI_Hackathon_2024](https://github.com/Shivoo29/RBI_Hackathon_2024/tree/main)
+- 🔭 I’m currently working on [RedMistTechnologies](https://github.com/Shivoo29/RedMistTechnologies)
 
 - 🌱 I’m currently learning **Rust, JS, Java, C++, Go, etc.. and pretty much everything because learning doesn't stop Right?**
 
