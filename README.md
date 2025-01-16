@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [LINKEDIN_PROFILE](https://www.linkedin.com/in/shivam-kumar-jha-35686a238/)
 
-- 📄 Know about my experiences [RESUME](https://github.com/Shivoo29/Shivoo29/blob/main/final_coundown.pdf)
+- 📄 Know about my experiences [RESUME](https://github.com/Shivoo29/Shivoo29/blob/main/my_resume.pdf)
 
 - ⚡ Fun fact **I Think I am Funny**
 
