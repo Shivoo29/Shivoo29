@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivoo29&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivoo29&theme=dark" alt="Streak Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Shivoo29&theme=github-dark&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF" alt="GitHub Streak Stats" height="165"/>
 </p>
 
 <p align="center">
