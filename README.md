@@ -35,10 +35,9 @@
 <div align="left" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="flex: 1;">
 
-+ 🔭 Currently: 
-+ 👯 Collaborate: 
-+ 🤝 Help Needed: 
-+ 🌱 Learning: 
++ 🔭 Currently: Trying to create 2 drones for a competetion
++ 🤝 Resume: [![my_Resume]](https://github.com/Shivoo29/Shivoo29/blob/main/my_resume.pdf)
++ 🌱 Learning: how to create an os for mobile in Rust 
 + 💬 Ask: About quantum paradoxes or memory management  
 + ⚡ Fun Fact: Debugged C++ via lucid dreaming
 
