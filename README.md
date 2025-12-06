@@ -13,11 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Automation+Engineer+%40+Lam+Research;AI+%26+Robotics+Innovator;60%2B+Hackathons+Finalist;National+Champion+Build+for+Bharat;Quantum+%26+Physics+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- Animated Snake eating contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shivoo29/Shivoo29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -76,7 +71,6 @@ impact = {
     ]
 }
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b90-43df-8ca5-8a6bd6404118.gif" width="100%">
 </details>
 
 <details>
@@ -92,7 +86,6 @@ project_rakshak = {
     "features": ["ADAS modules", "Real-time aerial assessment"]
 }
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </details>
 
 <details>
@@ -108,7 +101,6 @@ national_awards_portal = {
     "optimization": "Iterative A/B testing"
 }
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </details>
 
 ---
@@ -126,8 +118,6 @@ national_awards_portal = {
 | **Research Papers** | In Submission | Quantum Cryptography & AI |
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 ---
 
@@ -284,8 +274,6 @@ performance = "Top-tier PR-AUC scores"
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b90-43df-8ca5-8a6bd6404118.gif" width="100%">
-
 ---
 
 ## 📊 GitHub Statistics
@@ -394,10 +382,6 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 ### 👁️ Profile Views
 
 ![](https://visitcount.itsvg.in/api?id=Shivoo29&icon=5&color=6)
-
-### 🐍 Watch the Snake eat my contributions!
-
-![Snake animation](https://raw.githubusercontent.com/Shivoo29/Shivoo29/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
