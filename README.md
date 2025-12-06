@@ -36,7 +36,7 @@
   <div style="flex: 1;">
 
 + 🔭 Currently: Trying to create 2 drones for a competition 
-+ 🤝 Resume: [![My_Resume]](https://github.com/Shivoo29/Shivoo29/blob/main/my_resume.pdf)
++ 🤝 Resume: [![My_Resume]](https://github.com/Shivoo29/Shivoo29/blob/main/Shivam_Kumar_Jha's%20Resume.pdf)
 + 🌱 Learning: how to create an os for mobile in Rust 
 + 💬 Ask: About quantum paradoxes or memory management  
 + ⚡ Fun Fact: Debugged C++ via lucid dreaming
