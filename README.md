@@ -41,7 +41,6 @@
 + 💬 Ask: About quantum paradoxes or memory management  
 + ⚡ Fun Fact: Debugged C++ via lucid dreaming
 
-</div> <div align="right" style="flex: 1;"> <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="50%" style="max-width: 50px; border-radius: 5px; box-shadow: 0 0 20px #00ff0055;" /> </div> </div> 
 
 
 ## 🌐 Socials:
