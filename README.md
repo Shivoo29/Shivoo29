@@ -53,6 +53,13 @@ currently_learning:
 
 ## 💼 Professional Experience
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+</div>
+
 <details open>
 <summary><b>🔧 Automation Engineering Intern @ Lam Research</b> <i>(Jun 2025 - Present)</i></summary>
 <br>
@@ -109,6 +116,10 @@ national_awards_portal = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d4b5e8d.png" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4127-b793-d5bb6d7aa54e.png" width="50">
+
 | 🎖️ Achievement | 📊 Impact | 🔗 Details |
 |:---:|:---:|:---:|
 | **National Champion** | Build for Bharat | 1000+ SKUs digitized in 17 languages |
@@ -122,6 +133,12 @@ national_awards_portal = {
 ---
 
 ## 🔬 Featured Research Projects
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600">
+
+</div>
 
 <table>
 <tr>
@@ -168,15 +185,18 @@ performance = "Top-tier PR-AUC scores"
 
 <div align="center">
 
-### Languages
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+### 🔥 Languages & Core Technologies
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -279,6 +299,12 @@ performance = "Top-tier PR-AUC scores"
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivoo29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivoo29&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=F75C7E&currStreakLabel=6C63FF" />
 </div>
@@ -300,34 +326,182 @@ performance = "Top-tier PR-AUC scores"
 
 ---
 
-## 🎯 Current Focus & Learning
+## 🎯 Expertise Ecosystem - Full Stack Polymath
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+
+</div>
+
+### 🧠 Knowledge Graph - Computer Science Mastery
+
 ```mermaid
 mindmap
-  root((Shivam Kumar Jha))
-    Automation Engineering
-      SAP Integration
-      Python Automation
-      Process Optimization
+  root((🚀 Shivam Kumar Jha<br/>Full Stack Polymath))
+    🏭 Enterprise Automation
+      SAP ABAP Development
+      Python Win32com
+      Power BI Analytics
       Chrome Extensions
-    AI & ML
+      Process Optimization
+      Data Pipeline Engineering
+      CI/CD Automation
+    🤖 AI & Machine Learning
       Computer Vision
-      YOLOv8
-      Transformers
+        YOLOv8 Object Detection
+        Vision Transformers
+        OpenCV
+        Image Processing
+      Deep Learning
+        TensorFlow & Keras
+        PyTorch
+        Neural Architecture
+        Model Optimization
+      NLP & Transformers
+        BERT & GPT Models
+        Attention Mechanisms
+        Text Generation
       Quantum ML
-    Robotics
+        Hybrid Quantum-Classical
+        Quantum Algorithms
+    🦾 Robotics & Embedded Systems
       Autonomous Drones
-      ROS Systems
-      ADAS Modules
-      PID Control
-    Research
-      Quantum Cryptography
-      Hyperspectral Imaging
-      Chaos Theory
-      Energy-Based Transformers
+        PixHawk Flight Controller
+        MAVLink Protocol
+        Mission Planning
+      ROS Ecosystem
+        ROS2 Architecture
+        Navigation Stack
+        SLAM & Mapping
+      ADAS Development
+        Sensor Fusion
+        Path Planning
+        Obstacle Avoidance
+      Microcontrollers
+        ESP32 & Arduino
+        Raspberry Pi
+        Real-time Systems
+        PID Control Systems
+    🌐 Full Stack Development
+      Frontend Masters
+        React & Next.js
+        Svelte & SvelteKit
+        Three.js 3D Graphics
+        Flutter Mobile
+        TailwindCSS
+      Backend Architecture
+        Django & FastAPI
+        Node.js & Express
+        GraphQL APIs
+        Microservices
+        Laravel PHP
+      Mobile Development
+        React Native
+        Flutter
+        Kotlin Android
+    ☁️ Cloud & DevOps
+      Cloud Platforms
+        AWS Services
+        Azure Cloud
+        Google Cloud Platform
+        Firebase
+      Container Orchestration
+        Docker
+        Kubernetes
+        Container Security
+      Infrastructure
+        CI/CD Pipelines
+        GitHub Actions
+        Jenkins
+        Terraform IaC
+    🗄️ Database Engineering
+      SQL Databases
+        PostgreSQL
+        MySQL
+        MariaDB
+      NoSQL Systems
+        MongoDB
+        Redis Caching
+        Supabase
+      Data Modeling
+        Schema Design
+        Query Optimization
+        Database Scaling
+    🔬 Research & Innovation
+      Quantum Computing
+        Quantum Cryptography
+        Delithium Algorithms
+        Chaos Theory
+        Butterfly Effect Models
+      Advanced AI Research
+        Energy-Based Transformers
+        Low-Rank Sparse Representation
+        Hyperspectral Imaging
+        Anomaly Detection
+      Published Research
+        Quantum-Resistant Crypto
+        AI Grand Challenge
+    🎮 Game Development
+      Game Engines
+        Unity 3D
+        Unreal Engine
+        Game Physics
+      Graphics Programming
+        OpenGL
+        Shader Development
+        3D Modeling
+    🔐 Blockchain & Web3
+      Smart Contracts
+        Solidity Development
+        DApp Architecture
+        Web3 Integration
+      Cryptography
+        Encryption Algorithms
+        Security Protocols
+    📊 Data Science & Analytics
+      Data Processing
+        Pandas & NumPy
+        Data Cleaning
+        ETL Pipelines
+      Visualization
+        Matplotlib
+        Plotly
+        Power BI
+        Tableau
+      Statistical Analysis
+        scikit-learn
+        Model Training
+        A/B Testing
+    🛡️ Cybersecurity
+      Network Security
+        Penetration Testing
+        TOR Networks
+        Security Audits
+      Application Security
+        Secure Coding
+        Vulnerability Assessment
 ```
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+
+### 💡 Currently Mastering
+
+| 🎯 Domain | 🔥 Focus Area | 📈 Progress |
+|:---:|:---:|:---:|
+| **🦀 Systems Programming** | Building Mobile OS in Rust | ![80%](https://progress-bar.dev/80?title=Advanced&width=200&color=ff6b6b) |
+| **⚛️ Quantum Computing** | Quantum-Resistant Cryptography | ![85%](https://progress-bar.dev/85?title=Research&width=200&color=4ecdc4) |
+| **🚁 Autonomous Systems** | Competition Drone Development | ![75%](https://progress-bar.dev/75?title=Building&width=200&color=ffe66d) |
+| **🧠 Advanced AI** | Transformer Architecture Deep Dive | ![90%](https://progress-bar.dev/90?title=Expert&width=200&color=a8e6cf) |
+| **🏗️ Distributed Systems** | Microservices & Scalability | ![70%](https://progress-bar.dev/70?title=Learning&width=200&color=ff8b94) |
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2&section=header" width="80%"/>
 
 </div>
 
