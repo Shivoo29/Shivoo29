@@ -557,6 +557,22 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 
 ![](https://visitcount.itsvg.in/api?id=Shivoo29&icon=5&color=6)
 
+---
+
+### 🐍 Contribution Snake - Watch it Eat My Commits!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivoo29/Shivoo29/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivoo29/Shivoo29/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shivoo29/Shivoo29/output/github-snake.svg">
+</picture>
+
+### 🎨 Ocean Wave Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shivoo29/Shivoo29/output/ocean.gif" alt="Ocean Snake Animation" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 **✨ "Debugged C++ via lucid dreaming" ✨**
