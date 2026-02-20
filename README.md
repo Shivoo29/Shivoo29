@@ -1,7 +1,12 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Shivam+Kumar+Jha;Quantum+Code+Alchemist+%E2%9A%A1" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Shivam+Kumar+Jha;Quantum+Code+Alchemist+%E2%9A%A1" 
+  alt="Typing SVG" 
+  width="100%"
+  style="margin-bottom: 25px;"
+/>
 
 <!-- Animated Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20%7C%20AI%20%7C%20Robotics&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
@@ -134,7 +139,6 @@ national_awards_portal = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 ---
 
