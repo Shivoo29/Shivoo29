@@ -372,7 +372,7 @@ mindmap
 
 <br>
 
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-6C63FF?style=for-the-badge&logoColor=white)](https://github.com/Shivoo29/Shivoo29/blob/main/Shivam_Kumar_Jha's%20Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-6C63FF?style=for-the-badge&logoColor=white)](https://github.com/Shivoo29/Shivoo29/blob/main/Shivam_kumar_Jha_resume(April%202026).pdf)
 
 </div>
 
