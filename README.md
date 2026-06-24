@@ -404,7 +404,7 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 
 ### 👁️ Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Shivoo29&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivoo29&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### 🐍 Watch the Snake eat my contributions!
 
