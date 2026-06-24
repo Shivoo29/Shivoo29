@@ -311,10 +311,7 @@ performance = "Top-tier PR-AUC scores"
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivoo29&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=F75C7E&point=FFFFFF" />
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivoo29&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+
 
 ### 📈 Contribution Graph
 <div align="center">
